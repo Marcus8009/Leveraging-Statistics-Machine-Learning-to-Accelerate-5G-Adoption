@@ -74,3 +74,5 @@ Our machine learning models can be applied to:
 
 ## Conclusion
 This project demonstrates a data-driven strategy to maximize customer adoption and resource optimization, securing a competitive position in the 5G market. By leveraging machine learning, we can effectively target potential 5G users, optimize marketing efforts, and enhance network deployment strategies.
+
+Machine Learning for 5G adoption.pdf shows a pdf version of the final presentation.
